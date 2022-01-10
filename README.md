@@ -45,7 +45,7 @@ will generate new file .eslintrc.js. And yes, here is some problems:
 
 1. No auto replace inside your project. All your exceptions don't replaced to eslint convention
 2. No auto package installation. You need to install all packages manually
-3. Your eslint package is too big
+3. Your eslint configuration file is too big
 
 ## Combine two of them
 
